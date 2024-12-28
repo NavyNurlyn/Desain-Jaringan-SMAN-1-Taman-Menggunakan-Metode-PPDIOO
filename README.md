@@ -44,5 +44,5 @@ Designed a **network infrastructure simulation** for **SMAN 1 Taman** using **Va
 
 ## 📬 **Contact Information**  
 For inquiries or collaboration, feel free to reach out via:  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/navynurlyn/)  
-- **Email:** [Your Email Address](navyajrina@gmail.co )  
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/navynurlyn/)  
+- **Email:** [My Email Address](navyajrina@gmail.co )  
